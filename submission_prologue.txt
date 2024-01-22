@@ -1,7 +1,0 @@
-Team: TBD
-Members:  Alejandro, Ebenezer, Henry, May, Russell
-Project: 1A - Concept and Plan
-Product proposal: https://github.com/ebenezersemere/software_engineering/tree/main/phase_1/phase_1a
-Primary author: Ebenezer & Henry
-Slip Days: 0
-
