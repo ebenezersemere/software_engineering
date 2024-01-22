@@ -1,0 +1,33 @@
+Task / Deliverable,Due Date,Owner,1st Draft,Review Due,Final Version,Dependencies,Risks,Comments
+concept ,1/21,henry,1/21,1/21,1/21,none,"design creep, little competitive edge",dont get married to an idea too soon
+management plan,1/21,ebenezer,1/21,1/21,1/21,concept,not understanding how to design ,"living document, will edit as necessary"
+research competing notes / social / 5c apps,1/28,ebenezer,1/26,1/26,1/28,concept,not fully covering all competitors in research,ask users what they want
+preliminary requirements,2/4,ebenezer,1/26,1/26,1/31,research,not having a deep enough understanding of the project,"enumerate most important features, and ask how they relate to business need / value"
+"concept presentation, requirements eliciation, report and requirements analysis",2/4,ebenezer,1/31,2/2,2/4,preliminary requirement,not properly conveying purpose of product ,pick users with no stake or conflict of interest
+draft final proposal,2/11,ebenezer,2/6,2/8,2/9,requirements,being uncertain of what our projects like,recap everything we learned about
+post mortem for phase 1,2/11,ebenezer,2/9,2/11,2/11,final proposal,not addressing what went right,address both sides of issue
+,,,,,,,,
+Plan and Preliminary Architecture,02/18/2024,Russel,02/15/2024,02/16/2024,02/17/2024,Completion of Product Concept and product specification,It will be hard to design the architecture,brainstorm on designs
+Architectural Review,02/25/2024,Russel,02/22/2024,02/23/2024,02/24/2024,Preliminary Architecture,Scope changes may impact timelines,critique preliminary design to improve
+Final Architecture,03/03/2024,Russel,02/29/2024,03/01/2024,03/02/2024,Stakeholder Feedback,Delays in feedback may impact timelines,write official design document
+,,,,,,,,
+Plan,3/10,Alejandro,3/8,3/8,3/10,Final architecture (2c),"Components in our plan may not be compatible, the architectural design may not be realistic to implement in the plan",Plan must be finished a timely manner so issues can be promptly addressed
+Component Specifications,3/10,Alejandro,3/8,3/8,3/10,,Our specifications may not produce our desired performance,Make sure to have a realistic idea of our specifications
+Component Design,3/24,Alejandro,3/22,3/22,3/24,,"If the system design is not well-planned, then component design can be radically changed",Implementation could easily be subject to change
+Component Test Plan,3/24,Alejandro,3/22,3/22,3/24,,Test plan may not be exhaustive for our purposes,Try to anticipate critical edge cases
+Review Notes,3/31,Alejandro,3/29,3/29,3/31,,Dependent on component and test plan,must be thorough and incisive when detecting issues
+Review Report,3/31,Alejandro,3/29,3/29,3/31,,Dependent on review notes,Must finish in a timely nammer 
+"Final Specification, Design, Test, Plan",4/7,Alejandro,4/5,4/5,4/7,,All new problems that arose in the review report must be addressed,"final plan, tests, and report must be exhaustive"
+Post-Mortem Report (Team),4/7,Alejandro,4/5,4/5,4/7,,Depends on how well we documented our design process,review periodically not just at end
+,,,,,,,,
+Final Code,4/26,Amy,4/5,4/7,4/8,"previous phase 3 design, function envisions including general methods to achieve","Uneven workload divisions, code doesn't suit the need of planning",Make sure the code is understandable to other members (comments and styles)
+Test Suite and results,4/26,Amy,4/10,4/11,4/12,Phase 3 test plan proposal and component implementation that overall works,Fails to address edge cases of the code,Refer to the final test plan when implementing 
+Pair Programming exercise and report,4/26,Amy,4/12,4/17,4/18,"Lists of purposes for what the codes should achieve, better accompanied with what role they planned in the overall project for clear implementation of code",Miscommunication or too much argument leading to inefficiency (issues with asynchronous pair programming),"Arrange time ahead of time, check availability "
+Code Review Notes and Reports,4/26,Amy,4/20,4/21,4/21,Basic test frameworks and orders of implementation in plam,Overambitious ij testing new instead of existing features,Give appropriate revisions not rewriting the code 
+Test Driven Development Report,4/26,Amy,4/23,4/25,4/26,Code review for individual should be completed and the owner should have address the concerns raise from reviews,Lost track of what happens in early semester,Check format and language fluency 
+Post-Modern Report,4/26,Amy,4/23,4/25,4/26,"Coding complements, test suits and passed tests","Some portions didn't integrate well, failed to demonstrates some components ","Before the final group assessment, product owner shall review what they've done to give accurate judgements"
+,,,,,,,,
+* will decide ownership next meet,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"""   MEETINGS AND PROGRESS MONITORING:Every Sunday we will gather to plan the following week. We will check-in every morning virtually or before class, and utilize a group chat for continuous conversation.""",,,,,,,,
